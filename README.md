@@ -1,6 +1,8 @@
 # hello-world
 just to say hello to the world
 
-hey there, this is just a file to learn how github works, thank you for taking the time to read this!
-See you around,
+
+Ah I see how this works, I have to edit on this one? Understandable, have a nice day.
+
+You may wish to note the above,
 Viraj.
